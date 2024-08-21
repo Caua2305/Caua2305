@@ -15,3 +15,9 @@ ZERO RATING:O Zero Rating é uma prática realizada pelas operadoras e algumas e
 SISTEMA DE ARQUIVOS: Na prática, um sistema de arquivo é um conjunto de estruturas lógicas, ou seja, feitas diretamente via software, que permite ao sistema operacional ter acesso e controlar os dados gravados no disco. Cada sistema operacional lida com um sistema de arquivos diferente e cada sistema de arquivos possui as suas peculiaridades, como limitações, qualidade, velocidade, gerenciamento de espaço, entre outras características. É o sistema de arquivos que define como os bytes que compõem um arquivo serão armazenados no disco e de que forma o sistema operacional terá acesso aos dados. FONTE:techtudo.com
 
 PROCESSO DE NEGÓCIO:Processo de Negócio é o conjunto de atividades ou tarefas que são estruturadas e giram em torno da produção de um resultado de valor para o cliente, por meio da entrega de um serviço ou produto. Ele mostra o que deve ser realizado, como deve ser realizado e quem é o responsável.Portanto, o Processo de Negócio determina como o trabalho será feito na organização e traz a sequência lógica das atividades. 
+
+REDE NEURAL ARTIFICIAL:Uma rede neural é um método de inteligência artificial que ensina computadores a processar dados de uma forma inspirada pelo cérebro humano. É um tipo de processo de machine learning, chamado aprendizado profundo, que usa nós ou neurônios interconectados em uma estrutura em camadas, semelhante ao cérebro humano. A rede neural cria um sistema adaptativo que os computadores usam para aprender com os erros e se aprimorar continuamente. As redes neurais 
+artificiais tentam solucionar problemas complicados, como resumir documentos ou reconhecer rostos com grande precisão. FONTE: amazonwebservices
+
+MEMÓRIA: A memória do computador armazena informações, como dados e programas para uso imediato no computador. O termo memória muitas vezes é sinônimo de armazenamento
+primário ou memória principal. FONTE: wikipedia
